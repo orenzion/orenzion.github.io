@@ -5,7 +5,7 @@ categories: [blog, travel]
 tags: [hot, summer]
 ---
 
-# Welcome
+# 5 Days in Greece: City, Mountains & Beaches
 
 **Hello world**, this is my first Jekyll blog post.
 
