@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "A Trip to Greece"
 categories: [blog, travel]
 tags: [hot, summer]
