@@ -3,6 +3,8 @@ layout: single
 title:  "A Trip to Greece"
 categories: [blog, travel]
 tags: [hot, summer]
+comments: true
+
 ---
 
 # 5 Days in Greece: City, Mountains & Beaches
