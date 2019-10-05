@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "A Trip to Greece"
+title:  "A Random Forest Classifier which classifies electronic music :)"
 categories: [blog, Data Science]
 tags: [spotify, Random Forest Classifier, machine learning, Jupyter notebook]
 comments: true
