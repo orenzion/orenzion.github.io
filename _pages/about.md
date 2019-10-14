@@ -4,10 +4,7 @@ permalink: /about/
 ---
 Hi :)
 
-I am Oren, 30, from Tel-Aviv
-I have many hobbies and interested in many subjects,
-Accualy I think I am a very curious person and almost everything excites me.
+I am Oren, from Tel-Aviv. I am a curious, open minded person, who likes to learn & explore all the time.
 
-That's why Idecided to do data science - this is my way to learn and study about different subjects.
-through analyzing datasets related to my interest, data storytelling and revealing insights I dive into the data itself
-and earn new knowledge about the different worlds I investigate.  
+That's why I like data science - it is a great way to learn & explore.
+With data science you can, solve complex problems while learning each time on a new field through the data related to it. 
